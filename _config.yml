@@ -19,8 +19,8 @@ keywords:    "SUVHOA, Second University, Home Owners Association, HOA"
 description: "Second University Home Owners Association Info Page"
 source_link: "https://suvhoa.com"
 favicon:     "img/favicon.ico"
-fa-icon:     "home"
-##touch_icon:  "img/apple-touch-icon.png"
+##fa-icon:     "home"
+touch_icon:  "img/icons8-home-512.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
