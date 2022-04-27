@@ -42,7 +42,7 @@ Alright, you've got a clean copy and are ready to push some schmancy pages for t
   #### A new section- oh the humanity!
 ~~~
 
-**Note:** That part `fa-icon: paint-brush` will use a font-awesome icon of [paint-brush](http://fortawesome.github.io/Font-Awesome/icon/paint-brush/). You can use any icon from this [font-awesome icon directory](http://fortawesome.github.io/Font-Awesome/icons/).
+**Note:** That part `fa-icon: paint-brush` will use a font-awesome icon of [paint-brush](http://fortawesome.github.io/Font-Awesome/icon/paint-brush/). You can use any icon from this [font-awesome icon directory](https://fortawesome.com/sets/font-awesome-4).
 
 
 ## Changing your colors
