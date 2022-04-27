@@ -50,3 +50,11 @@ Alright, you've got a clean copy and are ready to push some schmancy pages for t
 - In each post file you can define `bg: mycolor` and `color: myothercolor` to change the background and text colors for that section.
 - **mycolor** can be a quoted html color like `'#0fbfcf'` or a key to a special color defined in **_config.yml** under 'colors'.
   - **Note:** Changes to _config.yml require a manual restart to your local server with `^C` and `jekyll serve -w`.
+
+## Extra stuff
+- Add in a centered picture using something like this is a post.md
+```
+<center>
+<img src="img/icons8-home-512.png" alt="Home Icon" title="Icons8 Home Icon" />
+</center>
+```
