@@ -1,14 +1,14 @@
 ---
-title: "Contact"
+title: "Reservations"
 bg: green
 color: white
-fa-icon: envelope
+fa-icon: ticket
 ---
-
-# Questions about the SUVHOA?
-If you are interested in contacting the board, requesting an item on the next agenda, or taking an open board position, please email info@suvhoa.com.
-
-----------
 
 # Looking to reserve the Clubhouse?
 Please email clubhouse@suvhoa.com.
+
+----------
+
+# Looking to reserve the tennis court?
+Please email tennis@suvhoa.com.
