@@ -6,9 +6,9 @@ fa-icon: ticket
 ---
 
 # Looking to reserve the Clubhouse?
-Please email clubhouse@suvhoa.com.
+<p align=center>Please email clubhouse@suvhoa.com.</p>
 
 ----------
 
 # Looking to reserve the tennis court?
-Please email tennis@suvhoa.com.
+<p align=center>Please email tennis@suvhoa.com.</p>
