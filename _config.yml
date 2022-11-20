@@ -33,13 +33,13 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
   olive:     '#bea925'
-  rnbwred:       '#FF0000'
-  rnbworange:    '#FF7F00'
-  rnbwyellow:    '#FFFF00'
-  rnbwgreen:     '#00FF00'
-  rnbwblue:      '#0000FF'
-  rnbwindigo:    '#4B0082'
-  rnbwviolet:    '#9400D3'
+  rnbwred:       '#ff0000'
+  rnbworange:    '#ff7f00'
+  rnbwyellow:    '#ffff00'
+  rnbwgreen:     '#00ff00'
+  rnbwblue:      '#0000ff'
+  rnbwindigo:    '#4b0082'
+  rnbwviolet:    '#9400d3'
 
 kramdown:
   auto_ids:  false
