@@ -1,6 +1,6 @@
 ---
 title: "Reservations"
-bg: olive
+bg: rnbwgreen
 color: white
 fa-icon: ticket
 ---
