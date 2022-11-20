@@ -32,8 +32,14 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-  red:       '#FF0000'
   olive:     '#bea925'
+  rnbwred:       '#FF0000'
+  rnbworange:    '#FF7F00'
+  rnbwyellow:    '#FFFF00'
+  rnbwgreen:     '#00FF00'
+  rnbwblue:      '#0000FF'
+  rnbwindigo:    '#4B0082'
+  rnbwviolet:    '#9400D3'
 
 kramdown:
   auto_ids:  false
