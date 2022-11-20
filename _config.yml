@@ -43,6 +43,12 @@ colors:
   softrn4:   '#E2F0CB'
   softrn5:   '#B5EAD7'
   softrn6:   '#C7CEEA'
+  pastrn1:   '#FF6663'
+  pastrn2:   '#FEB144'
+  pastrn3:   '#FDFD97'
+  pastrn4:   '#9EE09E'
+  pastrn5:   '#9EC1CF'
+  pastrn6:   '#CC99C9'
 
 kramdown:
   auto_ids:  false
