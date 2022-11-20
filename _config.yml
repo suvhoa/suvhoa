@@ -37,6 +37,12 @@ colors:
   blue:      '#0000ff'
   indigo:    '#4b0082'
   violet:    '#9400d3'
+  softrn1:   '#FF9AA2'
+  softrn2:   '#FFB7B2'
+  softrn3:   '#FFDAC1'
+  softrn4:   '#E2F0CB'
+  softrn5:   '#B5EAD7'
+  softrn6:   '#C7CEEA'
 
 kramdown:
   auto_ids:  false

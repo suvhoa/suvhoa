@@ -1,6 +1,6 @@
 ---
 title: "Reservations"
-bg: green
+bg: softrn4
 color: black
 fa-icon: ticket
 ---
