@@ -27,19 +27,16 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
   purple:    '#c869bf'
-  orange:    '#fab125'
   turquoise: '#0fbfcf'
   olive:     '#bea925'
-  rnbwred:       '#ff0000'
-  rnbworange:    '#ff7f00'
-  rnbwyellow:    '#ffff00'
-  rnbwgreen:     '#00ff00'
-  rnbwblue:      '#0000ff'
-  rnbwindigo:    '#4b0082'
-  rnbwviolet:    '#9400d3'
+  red:       '#ff0000'
+  orange:    '#ff7f00'
+  yellow:    '#ffff00'
+  green:     '#00ff00'
+  blue:      '#0000ff'
+  indigo:    '#4b0082'
+  violet:    '#9400d3'
 
 kramdown:
   auto_ids:  false
